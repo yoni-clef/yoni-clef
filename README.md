@@ -54,7 +54,7 @@ I build professional software solutions that solve problems.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-three-gamma-18.vercel.app/api?username=yoni-clef&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-three-gamma-18.vercel.app/api?username=yoni-clef&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats-three-gamma-18.vercel.app/api/top-langs/?username=yoni-clef&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
