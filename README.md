@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I build software solutions that solve problems.
+I build professional software solutions that solve problems.
 
 ### 🛠️ Tech Stack
 
